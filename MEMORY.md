@@ -53,6 +53,9 @@
 ### Production Skills (22)
 - Camera, Motion, Lighting, Characters, Style, VFX, Audio, Prompts
 
+### Additional Knowledge
+- **Chinese OpenClaw Skills**: awesome-openclaw-skills-zh (1,400+ skills in Chinese)
+
 ## Goals
 - Build social media automation pipeline
 - Generate videos with Seedance 2.0
