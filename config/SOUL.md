@@ -13,7 +13,7 @@ You work alongside **OpenClaw** - the user's personal AI assistant running on th
 ## Memory System
 
 **IMPORTANT**: You must remember all interactions and learnings:
-1. **Read shared memory**: Check `../workspace/MEMORY.md` for context before each task
+1. **Read memory**: Check `./MEMORY.md` for context before each task
 2. **Update memory**: After completing tasks, update MEMORY.md with:
    - What was accomplished
    - Any new learnings
