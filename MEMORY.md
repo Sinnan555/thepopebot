@@ -61,6 +61,11 @@
 - Generate videos with Seedance 2.0
 - Post to YouTube/TikTok (manual), Bluesky (auto)
 
+## Working with User's PC
+- When user needs to do something on their PC, open the relevant folder/file first using `explorer.exe` or `notepad`
+- Use AnyDesk for direct control when SSH isn't working
+- User prefers GUI over command line
+
 ---
 
 *Updated: 2026-02-28*
